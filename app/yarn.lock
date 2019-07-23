@@ -1958,15 +1958,16 @@ remark-stringify@^6.0.0:
     unherit "^1.0.4"
     xtend "^4.0.1"
 
-remark-validate-links@9.0.0:
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/remark-validate-links/-/remark-validate-links-9.0.0.tgz#c8c8e6fbcfb7ca9447561aaacdb979503e660731"
-  integrity sha512-HXvYJ3vMv9qXszWsmMUWWpfKetHoC7PEa2YjZTEaONXxzAw/7jJIVPws47Wr6IjcyjFwV1mk2M+sYNiFyG63Cg==
+remark-validate-links@9.0.1:
+  version "9.0.1"
+  resolved "https://registry.yarnpkg.com/remark-validate-links/-/remark-validate-links-9.0.1.tgz#9d0b667832f2ef325694ef0539d23c0ee3e423ba"
+  integrity sha512-+ZW2xzqDEujM+oPkutHm5LiTkMXeE7ldzruwi1xYVYq5xOE+zbPf0UMpc14ek2yn10T9Vvc+xLF5njZILqyAFw==
   dependencies:
     github-slugger "^1.2.0"
     hosted-git-info "^2.5.0"
     mdast-util-to-string "^1.0.4"
     propose "0.0.5"
+    to-vfile "^6.0.0"
     trough "^1.0.0"
     unist-util-visit "^1.0.0"
     xtend "^4.0.0"
@@ -2266,6 +2267,14 @@ to-vfile@^4.0.0:
     is-buffer "^2.0.0"
     vfile "^3.0.0"
 
+to-vfile@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/to-vfile/-/to-vfile-6.0.0.tgz#96c4aa0ee09c51dd4e8fd0b9c11da040d7dba9ea"
+  integrity sha512-i9fwXXSsHLu7mzgixc1WjgnqSe6pGpjnzCYoFmrASvEueLfyKf09QAe+XQYu8OAJ62aFqHpe2EKXojeRVvEzqA==
+  dependencies:
+    is-buffer "^2.0.0"
+    vfile "^4.0.0"
+
 trim-trailing-lines@^1.0.0:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/trim-trailing-lines/-/trim-trailing-lines-1.1.2.tgz#d2f1e153161152e9f02fabc670fb40bec2ea2e3a"
@@ -2475,6 +2484,14 @@ vfile-message@^1.0.0:
   dependencies:
     unist-util-stringify-position "^1.1.1"
 
+vfile-message@^2.0.0:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/vfile-message/-/vfile-message-2.0.1.tgz#951881861c22fc1eb39f873c0b93e336a64e8f6d"
+  integrity sha512-KtasSV+uVU7RWhUn4Lw+wW1Zl/nW8JWx7JCPps10Y9JRRIDeDXf8wfBLoOSsJLyo27DqMyAi54C6Jf/d6Kr2Bw==
+  dependencies:
+    "@types/unist" "^2.0.2"
+    unist-util-stringify-position "^2.0.0"
+
 vfile-reporter@^5.0.0:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/vfile-reporter/-/vfile-reporter-5.1.2.tgz#80f1db5cbe8f9c12f2f30cce3e2cd18353a48519"
@@ -2506,6 +2523,17 @@ vfile@^3.0.0:
     replace-ext "1.0.0"
     unist-util-stringify-position "^1.0.0"
     vfile-message "^1.0.0"
+
+vfile@^4.0.0:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/vfile/-/vfile-4.0.1.tgz#fc3d43a1c71916034216bf65926d5ee3c64ed60c"
+  integrity sha512-lRHFCuC4SQBFr7Uq91oJDJxlnftoTLQ7eKIpMdubhYcVMho4781a8MWXLy3qZrZ0/STD1kRiKc0cQOHm4OkPeA==
+  dependencies:
+    "@types/unist" "^2.0.0"
+    is-buffer "^2.0.0"
+    replace-ext "1.0.0"
+    unist-util-stringify-position "^2.0.0"
+    vfile-message "^2.0.0"
 
 wide-align@^1.1.0:
   version "1.1.3"

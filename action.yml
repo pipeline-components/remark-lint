@@ -18,6 +18,6 @@ runs:
   using: 'docker'
   image: docker://pipelinecomponents/remark-lint
   args:
-    - remark-lint
+    - remark
     - '${{ inputs.options }}'
     - '${{ inputs.directory }}'

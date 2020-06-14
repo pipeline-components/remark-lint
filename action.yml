@@ -1,5 +1,5 @@
 ---
-name: 'remark-lint'
+name: 'pipeline-components-remark-lint'
 description: 'remark-lint by Pipeline Components'
 author: 'Robbert Müller <spam.me@grols.ch>'
 branding:

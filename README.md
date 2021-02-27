@@ -22,7 +22,7 @@ The image is based on node:10-alpine
 ```yaml
 remark-lint:
   stage: linting
-  image: pipelinecomponents/remark-lint:latest
+  image: registry.gitlab.com/pipeline-components/remark-lint:latest
   script:
     - remark --no-stdout --color  --use preset-lint-recommended .
 ```

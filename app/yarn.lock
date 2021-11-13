@@ -1180,19 +1180,6 @@ remark-lint-maximum-line-length@^3.0.0:
     unist-util-position "^4.0.0"
     unist-util-visit "^4.0.0"
 
-remark-lint-no-auto-link-without-protocol@^3.0.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-auto-link-without-protocol/-/remark-lint-no-auto-link-without-protocol-3.1.0.tgz#24fe1c8b83b0d36944941f20f2b4eb68a29595ce"
-  integrity sha512-GqZXDu/xfajWCEPhS8UjO9dYMTlY5lD8ShoYIaouUgz3nNQvLwX33pTKqfRpd/R9EmV1uQw0PCJ6TYwhBrnOXQ==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    mdast-util-to-string "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
-
 remark-lint-no-blockquote-without-marker@^5.0.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/remark-lint-no-blockquote-without-marker/-/remark-lint-no-blockquote-without-marker-5.1.0.tgz#58bffb7d36d61628e9dc68bb0582897c55f34248"
@@ -1558,10 +1545,10 @@ remark-parse@^10.0.0:
     mdast-util-from-markdown "^1.0.0"
     unified "^10.0.0"
 
-remark-preset-lint-consistent@5.0.1:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/remark-preset-lint-consistent/-/remark-preset-lint-consistent-5.0.1.tgz#6a20eb58109ac6c6638bfeed3581d241e8697a82"
-  integrity sha512-uxc6oFn3pudPvCs4CSqTbCapmYfNXSkpYQDJ868ZxXtAvz45J8YbwXTcicLIPuf4SE3Ynv1MYXPoiTPPxfoung==
+remark-preset-lint-consistent@5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/remark-preset-lint-consistent/-/remark-preset-lint-consistent-5.1.0.tgz#c994fbea71e93c4452368657ee093080d265c4a8"
+  integrity sha512-i5xmsBtOQrymbr1y0TS6cYOXQ9nueIMMfEfSG6xmOJRnLIEQ0wAAhbUn6bOUyr2YmLLnWyScby3aCjQsOiyRBA==
   dependencies:
     "@types/mdast" "^3.0.0"
     remark-lint "^9.0.0"
@@ -1579,10 +1566,10 @@ remark-preset-lint-consistent@5.0.1:
     remark-lint-table-cell-padding "^4.0.0"
     unified "^10.0.0"
 
-remark-preset-lint-markdown-style-guide@5.0.1:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/remark-preset-lint-markdown-style-guide/-/remark-preset-lint-markdown-style-guide-5.0.1.tgz#a53018e4e44f4417b911968ee1ecc49aa3cff6a7"
-  integrity sha512-O/Es5sDhBcfwKu+9aQHs6Wj3NT3tb3bPGbSxw0cBaHdVAhNQV1+1yeQWzpoIk53vN5+7S4SeQwAx/Rsw1Youqw==
+remark-preset-lint-markdown-style-guide@5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/remark-preset-lint-markdown-style-guide/-/remark-preset-lint-markdown-style-guide-5.1.1.tgz#7dbc13b208b44360041ba92d9596bce289dd4835"
+  integrity sha512-QZr1Z0Ry83kF/qCa41c8JZlNR3RmI18AbQgK1kRKCdrnd4VSEIoMgeneb3B36qnJ8K5xugpf41ePL8oot6IArw==
   dependencies:
     "@types/mdast" "^3.0.0"
     remark-lint "^9.0.0"
@@ -1604,7 +1591,6 @@ remark-preset-lint-markdown-style-guide@5.0.1:
     remark-lint-list-item-spacing "^4.0.0"
     remark-lint-maximum-heading-length "^3.0.0"
     remark-lint-maximum-line-length "^3.0.0"
-    remark-lint-no-auto-link-without-protocol "^3.0.0"
     remark-lint-no-blockquote-without-marker "^5.0.0"
     remark-lint-no-consecutive-blank-lines "^4.0.0"
     remark-lint-no-duplicate-headings "^3.0.0"
@@ -1632,10 +1618,10 @@ remark-preset-lint-markdown-style-guide@5.0.1:
     remark-lint-unordered-list-marker-style "^3.0.0"
     unified "^10.0.0"
 
-remark-preset-lint-recommended@6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/remark-preset-lint-recommended/-/remark-preset-lint-recommended-6.0.1.tgz#4e93784b9f007bc9eee7c0e401ea31eacc147cca"
-  integrity sha512-8ZlwP2aDCGf+3UFPP1K8CofWI/WLoq8hPhQiuKotCFNSdTe98/27XYqWXpbMt4feWtX4+tcJY1y0duuLK5lhBg==
+remark-preset-lint-recommended@6.1.1:
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/remark-preset-lint-recommended/-/remark-preset-lint-recommended-6.1.1.tgz#c5756bfbd698f262a988f2ffe4e5ba724f4d1ad7"
+  integrity sha512-ez8/QTY8x/XKZcewXbWd+vQWWhNbgHCEq+NwY6sf9/QuwxBarG9cmSkP9yXi5glYKGVaEefVZmrZRB4jvZWcog==
   dependencies:
     "@types/mdast" "^3.0.0"
     remark-lint "^9.0.0"
@@ -1643,7 +1629,6 @@ remark-preset-lint-recommended@6.0.1:
     remark-lint-hard-break-spaces "^3.0.0"
     remark-lint-list-item-bullet-indent "^4.0.0"
     remark-lint-list-item-indent "^3.0.0"
-    remark-lint-no-auto-link-without-protocol "^3.0.0"
     remark-lint-no-blockquote-without-marker "^5.0.0"
     remark-lint-no-duplicate-definitions "^3.0.0"
     remark-lint-no-heading-content-indent "^4.0.0"

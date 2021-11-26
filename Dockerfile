@@ -16,6 +16,7 @@ COPY app /app/
 ENV PATH "$PATH:/app/node_modules/.bin/"
 RUN yarn install --frozen-lockfile && yarn cache clean
 ENV NODE_PATH=/app/node_modules/
+RUN ln -nfs /app/node_modules /node_modules
 
 WORKDIR /code/
 

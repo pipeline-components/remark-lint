@@ -24,9 +24,9 @@
     js-tokens "^4.0.0"
 
 "@npmcli/config@^6.0.0":
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/@npmcli/config/-/config-6.1.0.tgz#a6b81ad87fe76f60b77d38114ecd33055903aa4b"
-  integrity sha512-fPVlvy6MmSN0zgJU1TOD0fimnKVmcFpK3WuPyIQfNtCE+HMkFDN1mIKBKhUNow5QYHmCzMvGbu7pAgwdlSoaQA==
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/@npmcli/config/-/config-6.1.1.tgz#d65bd3974dd4bef66a1ce11024cb7bb461a022f8"
+  integrity sha512-R09ig+5UGrA1lxTWMyfyUwwzR9OAtJwMHGF4opu0/ysM3nMujzVvp0DVD/BnbmcQ0w6jM4IrsCSsq6ZdcvLW/Q==
   dependencies:
     "@npmcli/map-workspaces" "^3.0.0"
     ini "^3.0.0"
@@ -334,9 +334,9 @@ glob-parent@~5.1.2:
     is-glob "^4.0.1"
 
 glob@^8.0.0, glob@^8.0.1:
-  version "8.0.3"
-  resolved "https://registry.yarnpkg.com/glob/-/glob-8.0.3.tgz#415c6eb2deed9e502c68fa44a272e6da6eeca42e"
-  integrity sha512-ull455NHSHI/Y1FqGaaYFaLGkNMMJbavMrEGFXG/PGrg6y7sutWHUHrz6gy6WEBH6akM1M414dWKCNs+IhKdiQ==
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/glob/-/glob-8.1.0.tgz#d388f656593ef708ee3e34640fdfb99a9fd1c33e"
+  integrity sha512-r8hpEjiQEYlF2QU0df3dS+nxxSIreXQS1qRhMJM0Q5NDdR386C7jb7Hwwod8Fgiuex+k0GFjgft18yvxm5XoCQ==
   dependencies:
     fs.realpath "^1.0.0"
     inflight "^1.0.4"
@@ -754,9 +754,9 @@ micromark@^3.0.0:
     uvu "^0.5.0"
 
 minimatch@^5.0.1:
-  version "5.1.2"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-5.1.2.tgz#0939d7d6f0898acbd1508abe534d1929368a8fff"
-  integrity sha512-bNH9mmM9qsJ2X4r2Nat1B//1dJVcn3+iBLa3IgqJ7EbGaDNepL9QSHOxN4ng33s52VMMhhIfgCYDk3C4ZmlDAg==
+  version "5.1.4"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-5.1.4.tgz#4e2d39d872684e97b309a9104251c3f1aa4e9d1c"
+  integrity sha512-U0iNYXt9wALljzfnGkhFSy5sAC6/SCR3JrHrlsdJz4kF8MvhTRQNiC59iUi1iqsitV7abrNAJWElVL9pdnoUgw==
   dependencies:
     brace-expansion "^2.0.1"
 

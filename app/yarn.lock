@@ -76,9 +76,9 @@
     "@types/node" "*"
 
 "@types/debug@^4.0.0":
-  version "4.1.7"
-  resolved "https://registry.yarnpkg.com/@types/debug/-/debug-4.1.7.tgz#7cc0ea761509124709b8b2d1090d8f6c17aadb82"
-  integrity sha512-9AonUzyTjXXhEOa0DnqpzZi6VHlqKMswga9EXjpXnnqxwLtdvPPtlO8evrI5D9S6asFRCQ6v+wpiUKbw+vKqyg==
+  version "4.1.8"
+  resolved "https://registry.yarnpkg.com/@types/debug/-/debug-4.1.8.tgz#cef723a5d0a90990313faec2d1e22aee5eecb317"
+  integrity sha512-/vPO1EPOs306Cvhwv7KfVfYvOJqA/S/AXjaHQiJboCZzcNDb+TIJFN9/2C9DZ//ijSKWioNyUxD792QmDJ+HKQ==
   dependencies:
     "@types/ms" "*"
 
@@ -119,14 +119,14 @@
   integrity sha512-iiUgKzV9AuaEkZqkOLDIvlQiL6ltuZd9tGcW3gwpnX8JbuiuhFlEGmmFXEXkN50Cvq7Os88IY2v0dkDqXYWVgA==
 
 "@types/node@*":
-  version "20.2.3"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.2.3.tgz#b31eb300610c3835ac008d690de6f87e28f9b878"
-  integrity sha512-pg9d0yC4rVNWQzX8U7xb4olIOFuuVL9za3bzMT2pu2SU0SNEi66i2qrvhE2qt0HvkhuCaWJu7pLNOt/Pj8BIrw==
+  version "20.2.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.2.5.tgz#26d295f3570323b2837d322180dfbf1ba156fefb"
+  integrity sha512-JJulVEQXmiY9Px5axXHeYGLSjhkZEnD+MDPDGbCbIAbMslkKwmygtZFy1X6s/075Yo94sf8GuSlFfPzysQrWZQ==
 
 "@types/node@^18.0.0":
-  version "18.16.14"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.16.14.tgz#ab67bb907f1146afc6fedb9ce60ae8a99c989631"
-  integrity sha512-+ImzUB3mw2c5ISJUq0punjDilUQ5GnUim0ZRvchHIWJmOC0G+p0kzhXBqj6cDjK0QdPFwzrHWgrJp3RPvCG5qg==
+  version "18.16.16"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.16.16.tgz#3b64862856c7874ccf7439e6bab872d245c86d8e"
+  integrity sha512-NpaM49IGQQAUlBhHMF82QH80J08os4ZmyF9MkpCzWAGuOHqE4gTEbhzd7L3l5LmWuZ6E0OiC1FweQ4tsiW35+g==
 
 "@types/supports-color@^8.0.0":
   version "8.1.1"
@@ -1806,9 +1806,9 @@ string_decoder@^1.1.1:
     ansi-regex "^5.0.1"
 
 strip-ansi@^7.0.1:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-7.0.1.tgz#61740a08ce36b61e50e65653f07060d000975fb2"
-  integrity sha512-cXNxvT8dFNRVfhVME3JAe98mkXDYN2O1l7jmcwMnOslDeESg1rF/OZMtK0nRAhiari1unG5cD4jG3rapUAkLbw==
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-7.1.0.tgz#d5b6568ca689d8561370b0707685d22434faff45"
+  integrity sha512-iq6eVVI64nQQTRYq2KtEg2d2uU7LElhTJwsH4YzIHZshxlgZms/wIc4VoDQTlG/IvVIrBKG06CrZnp0qv7hkcQ==
   dependencies:
     ansi-regex "^6.0.1"
 
@@ -2111,9 +2111,9 @@ yallist@^4.0.0:
   integrity sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A==
 
 yaml@^2.0.0:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/yaml/-/yaml-2.2.2.tgz#ec551ef37326e6d42872dad1970300f8eb83a073"
-  integrity sha512-CBKFWExMn46Foo4cldiChEzn7S7SRV+wqiluAb6xmueD/fGyRHIhX8m14vVGgeFWjN540nKCNVj6P21eQjgTuA==
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/yaml/-/yaml-2.3.1.tgz#02fe0975d23cd441242aa7204e09fc28ac2ac33b"
+  integrity sha512-2eHWfjaoXgTBC2jNM1LRef62VQa0umtvRiDSk6HSzW7RvS5YtkabJrwYLLEKWBc8a5U2PTSCs+dJjUTJdlHsWQ==
 
 zwitch@^2.0.0:
   version "2.0.4"

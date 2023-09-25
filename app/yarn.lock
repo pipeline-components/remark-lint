@@ -37,9 +37,9 @@
     wrap-ansi-cjs "npm:wrap-ansi@^7.0.0"
 
 "@npmcli/config@^6.0.0":
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/@npmcli/config/-/config-6.2.1.tgz#954cc09b727b6bfc087cb1d2a48994dc342e45cc"
-  integrity sha512-Cj/OrSbrLvnwWuzquFCDTwFN8QmR+SWH6qLNCBttUreDkKM5D5p36SeSMbcEUiCGdwjUrVy2yd8C0REwwwDPEw==
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/@npmcli/config/-/config-6.3.0.tgz#9fda323682fdd0505e9584358f6de502b0d01a81"
+  integrity sha512-gV64pm5cQ7F2oeoSJ5HTfaKxjFsvC4dAbCsQbtbOkEOymM6iZI62yNGCOLjcq/rfYX9+wVn34ThxK7GZpUwWFg==
   dependencies:
     "@npmcli/map-workspaces" "^3.0.2"
     ci-info "^3.8.0"
@@ -78,23 +78,23 @@
     "@types/node" "*"
 
 "@types/debug@^4.0.0":
-  version "4.1.8"
-  resolved "https://registry.yarnpkg.com/@types/debug/-/debug-4.1.8.tgz#cef723a5d0a90990313faec2d1e22aee5eecb317"
-  integrity sha512-/vPO1EPOs306Cvhwv7KfVfYvOJqA/S/AXjaHQiJboCZzcNDb+TIJFN9/2C9DZ//ijSKWioNyUxD792QmDJ+HKQ==
+  version "4.1.9"
+  resolved "https://registry.yarnpkg.com/@types/debug/-/debug-4.1.9.tgz#906996938bc672aaf2fb8c0d3733ae1dda05b005"
+  integrity sha512-8Hz50m2eoS56ldRlepxSBa6PWEVCtzUo/92HgLc2qTMnotJNIm7xP+UZhyWoYsyOdd5dxZ+NZLb24rsKyFs2ow==
   dependencies:
     "@types/ms" "*"
 
 "@types/estree-jsx@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@types/estree-jsx/-/estree-jsx-1.0.0.tgz#7bfc979ab9f692b492017df42520f7f765e98df1"
-  integrity sha512-3qvGd0z8F2ENTGr/GG1yViqfiKmRfrXVx5sJyHGFu3z7m5g5utCQtGp/g29JnjflhtQJBv1WDQukHiT58xPcYQ==
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@types/estree-jsx/-/estree-jsx-1.0.1.tgz#cc26c8566c67f27795bbc025f57cf0499d7cedd6"
+  integrity sha512-sHyakZlAezNFxmYRo0fopDZW+XvK6ipeZkkp5EAOLjdPfZp8VjZBJ67vSRI99RSCAoqXVmXOHS4fnWoxpuGQtQ==
   dependencies:
     "@types/estree" "*"
 
 "@types/estree@*":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@types/estree/-/estree-1.0.1.tgz#aa22750962f3bf0e79d753d3cc067f010c95f194"
-  integrity sha512-LG4opVs2ANWZ1TJoKc937iMmNstM/d0ae1vNbnBvBhqCSezgVUOzcLCqbI5elV8Vy6WKwKjaqR+zO9VKirBBCA==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@types/estree/-/estree-1.0.2.tgz#ff02bc3dc8317cd668dfec247b750ba1f1d62453"
+  integrity sha512-VeiPZ9MMwXjO32/Xu7+OwflfmeoRwkE/qzndw42gGtgJwZopBnzy2gD//NN1+go1mADzkDcqf/KnFRSjTJ8xJA==
 
 "@types/hast@^2.0.0":
   version "2.3.6"
@@ -121,14 +121,14 @@
   integrity sha512-iiUgKzV9AuaEkZqkOLDIvlQiL6ltuZd9tGcW3gwpnX8JbuiuhFlEGmmFXEXkN50Cvq7Os88IY2v0dkDqXYWVgA==
 
 "@types/node@*":
-  version "20.6.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.6.2.tgz#a065925409f59657022e9063275cd0b9bd7e1b12"
-  integrity sha512-Y+/1vGBHV/cYk6OI1Na/LHzwnlNCAfU3ZNGrc1LdRe/LAIbdDPTTv/HU3M7yXN448aTVDq3eKRm2cg7iKLb8gw==
+  version "20.6.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.6.5.tgz#4c6a79adf59a8e8193ac87a0e522605b16587258"
+  integrity sha512-2qGq5LAOTh9izcc0+F+dToFigBWiK1phKPt7rNhOqJSr35y8rlIBjDwGtFSgAI6MGIhjwOVNSQZVdJsZJ2uR1w==
 
 "@types/node@^18.0.0":
-  version "18.17.17"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.17.tgz#53cc07ce582c9d7c5850702a3c2cb0af0d7b0ca1"
-  integrity sha512-cOxcXsQ2sxiwkykdJqvyFS+MLQPLvIdwh5l6gNg8qF6s+C7XSkEWOZjK+XhUZd+mYvHV/180g2cnCcIl4l06Pw==
+  version "18.17.19"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.19.tgz#80c9b8a89d3648d9e6098f4a7184e03833fee3c5"
+  integrity sha512-+pMhShR3Or5GR0/sp4Da7FnhVmTalWm81M6MkEldbwjETSaPalw138Z4KdpQaistvqQxLB7Cy4xwYdxpbSOs9Q==
 
 "@types/supports-color@^8.0.0":
   version "8.1.1"
@@ -414,9 +414,9 @@ glob-parent@~5.1.2:
     is-glob "^4.0.1"
 
 glob@^10.2.2:
-  version "10.3.4"
-  resolved "https://registry.yarnpkg.com/glob/-/glob-10.3.4.tgz#c85c9c7ab98669102b6defda76d35c5b1ef9766f"
-  integrity sha512-6LFElP3A+i/Q8XQKEvZjkEWEOTgAIALR9AO2rwT8bgPhDd1anmqDJDZ6lLddI4ehxxxR1S5RIqKe1uapMQfYaQ==
+  version "10.3.7"
+  resolved "https://registry.yarnpkg.com/glob/-/glob-10.3.7.tgz#d5bd30a529c8c9b262fb4b217941f64ad90e25ac"
+  integrity sha512-wCMbE1m9Nx5yD9LYtgsVWq5VhHlk5WzJirw594qZR6AIvQYuHrdDtIktUVjQItalD53y7dqoedu9xP0u0WaxIQ==
   dependencies:
     foreground-child "^3.1.0"
     jackspeak "^2.0.3"

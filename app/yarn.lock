@@ -37,9 +37,9 @@
     wrap-ansi-cjs "npm:wrap-ansi@^7.0.0"
 
 "@npmcli/config@^8.0.0":
-  version "8.0.2"
-  resolved "https://registry.yarnpkg.com/@npmcli/config/-/config-8.0.2.tgz#61f50dbf9a1b032e341cb4cf4f74c34d3f43d358"
-  integrity sha512-g+DAp7bUsiUDynRI4jTO0wPAXJpy3puhovHHg8S4iq54NF8zd00588GJOm5ARxDaDUdKCUYu9E5fNc+esYl5JA==
+  version "8.0.3"
+  resolved "https://registry.yarnpkg.com/@npmcli/config/-/config-8.0.3.tgz#deacc4217060f3bf3e751cfdc5dd91481595aecd"
+  integrity sha512-rqRX7/UORvm2YRImY67kyfwD9rpi5+KXXb1j/cpTUKRcUqvpJ9/PMMc7Vv57JVqmrFj8siBBFEmXI3Gg7/TonQ==
   dependencies:
     "@npmcli/map-workspaces" "^3.0.2"
     ci-info "^4.0.0"
@@ -135,9 +135,9 @@
   integrity sha512-nG96G3Wp6acyAgJqGasjODb+acrI7KltPiRxzHPXnP3NgI28bpQDRv53olbqGXbfcgF5aiiHmO3xpwEpS5Ld9g==
 
 "@types/node@*", "@types/node@^20.0.0":
-  version "20.10.3"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.3.tgz#4900adcc7fc189d5af5bb41da8f543cea6962030"
-  integrity sha512-XJavIpZqiXID5Yxnxv3RUDKTN5b81ddNC3ecsA0SoFXz/QU8OGBwZGMomiq0zw+uuqbL/krztv/DINAQ/EV4gg==
+  version "20.10.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.4.tgz#b246fd84d55d5b1b71bf51f964bd514409347198"
+  integrity sha512-D08YG6rr8X90YB56tSIuBaddy/UXAA9RKJoFvrsnogAum/0pmjkgi4+2nx96A330FmioegBWmEYQ+syqCFaveg==
   dependencies:
     undici-types "~5.26.4"
 
@@ -2133,9 +2133,9 @@ unified-args@^11.0.0:
     unified-engine "^11.0.0"
 
 unified-engine@^11.0.0:
-  version "11.1.1"
-  resolved "https://registry.yarnpkg.com/unified-engine/-/unified-engine-11.1.1.tgz#6d59bca82f0002fa5cd70e44a93f4fec51ecd2df"
-  integrity sha512-uVx/R+Q8V5wv5EPdPzBPPscSKpbqWeqqIc0lMfDcn3aS+QDENTpDY+wdPQ5oswuQSpPn/miuP0FspIwo19++IA==
+  version "11.2.0"
+  resolved "https://registry.yarnpkg.com/unified-engine/-/unified-engine-11.2.0.tgz#bfd7296368a3b9cf7c36e1ab1d9db8327260a39f"
+  integrity sha512-H9wEDpBSM0cpEUuuYAOIiPzLCVN0pjASZZ6FFNzgzYS/HHzl9tArk/ereOMGtcF8m8vgjzw+HrU3YN7oenT7Ww==
   dependencies:
     "@types/concat-stream" "^2.0.0"
     "@types/debug" "^4.0.0"

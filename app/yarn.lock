@@ -620,9 +620,9 @@ lines-and-columns@^2.0.3:
   integrity sha512-wM1+Z03eypVAVUCE7QdSqpVIvelbOakn1M0bPDoA4SGWPx3sNDVUiMo3L6To6WWGClB7VyXnhQ4Sn7gxiJbE6A==
 
 load-plugin@^6.0.0:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/load-plugin/-/load-plugin-6.0.2.tgz#a3ec9e04fb6009cf97f226e4695bc0f7037a9280"
-  integrity sha512-3KRkTvCOsyNrx4zvBl/+ZMqPdVyp26TIf6xkmfEGuGwCfNQ/HzhktwbJCxd1KJpzPbK42t/WVOL3cX+TDaMRuQ==
+  version "6.0.3"
+  resolved "https://registry.yarnpkg.com/load-plugin/-/load-plugin-6.0.3.tgz#b0eb8ea2361744f0e54850ccbc4c8a2d94ffabe3"
+  integrity sha512-kc0X2FEUZr145odl68frm+lMJuQ23+rTXYmR6TImqPtbpmXC4vVXbWKDQ9IzndA0HfyQamWfKLhzsqGSTxE63w==
   dependencies:
     "@npmcli/config" "^8.0.0"
     import-meta-resolve "^4.0.0"
@@ -1131,9 +1131,9 @@ micromark-util-subtokenize@^1.0.0:
     uvu "^0.5.0"
 
 micromark-util-subtokenize@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/micromark-util-subtokenize/-/micromark-util-subtokenize-2.0.0.tgz#9f412442d77e0c5789ffdf42377fa8a2bcbdf581"
-  integrity sha512-vc93L1t+gpR3p8jxeVdaYlbV2jTYteDje19rNSS/H5dlhxUYll5Fy6vJ2cDwP8RnsXi818yGty1ayP55y3W6fg==
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/micromark-util-subtokenize/-/micromark-util-subtokenize-2.0.1.tgz#76129c49ac65da6e479c09d0ec4b5f29ec6eace5"
+  integrity sha512-jZNtiFl/1aY73yS3UGQkutD0UbhTt68qnRpw2Pifmz5wV9h8gOVsN70v+Lq/f1rKaU/W8pxRe8y8Q9FX1AOe1Q==
   dependencies:
     devlop "^1.0.0"
     micromark-util-chunked "^2.0.0"

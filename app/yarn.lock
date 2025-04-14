@@ -153,9 +153,9 @@
   integrity sha512-GsCCIZDE/p3i96vtEqx+7dBUGXrc7zeSK3wwPHIaRThS+9OhWIXRqzs4d6k1SVU8g91DrNRWxWUGhp5KXQb2VA==
 
 "@types/node@*", "@types/node@^22.0.0":
-  version "22.14.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.14.0.tgz#d3bfa3936fef0dbacd79ea3eb17d521c628bb47e"
-  integrity sha512-Kmpl+z84ILoG+3T/zQFyAJsU6EPTmOCj8/2+83fSN6djd6I4o7uOuGIH6vq3PrjY5BGitSbFuMN18j3iknubbA==
+  version "22.14.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.14.1.tgz#53b54585cec81c21eee3697521e31312d6ca1e6f"
+  integrity sha512-u0HuPQwe/dHrItgHHpmw3N2fYCR6x4ivMNbPHRkBVP4CvN+kiRrKHWk3i8tXiO/joPwXLMYvF9TTF0eqgHIuOw==
   dependencies:
     undici-types "~6.21.0"
 
@@ -1218,9 +1218,9 @@ remark-lint-emphasis-marker@^4.0.0:
     vfile-message "^4.0.0"
 
 remark-lint-fenced-code-flag@^4.0.0:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-fenced-code-flag/-/remark-lint-fenced-code-flag-4.1.1.tgz#9133f4a689041ac4c45a77a78aadbd5fab055e48"
-  integrity sha512-hKPqowc79jrJL47AfnqDThvE8Q249nHCleR5nxuf9ybriMqcAHYxragKzU5c4W1fNy20bTfFdZz/iAAQAk9kwg==
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/remark-lint-fenced-code-flag/-/remark-lint-fenced-code-flag-4.2.0.tgz#192e11be72a1e73ee182bd3564155f7c970d12a6"
+  integrity sha512-QWGTrnYbcopOFZR98djDREmKApLonJ7hmXE7pEcOGee9JY/EUIVS7Lq54Hy9CtU3cVIvQQmiMTxCwUhfddDJFA==
   dependencies:
     "@types/mdast" "^4.0.0"
     mdast-util-phrasing "^4.0.0"
@@ -1587,9 +1587,9 @@ remark-lint-no-table-indentation@^5.0.0:
     vfile-location "^5.0.0"
 
 remark-lint-no-undefined-references@^5.0.0:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-undefined-references/-/remark-lint-no-undefined-references-5.0.1.tgz#69183bf73cc37bb8281dddb9283f77e8eaa9af46"
-  integrity sha512-j3qOk+jry1NPNbUmydGJpfbo1LeuZkvXOwr8ocxh1ymDzHf2GMCiToAiicDNaOuG85RkiIzLvnnCV5I7Mo5q8w==
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-undefined-references/-/remark-lint-no-undefined-references-5.0.2.tgz#8a244c250db92d3ee2664dbb7ad873c7df84d71d"
+  integrity sha512-5prkVb1tKwJwr5+kct/UjsLjvMdEDO7uClPeGfrxfAcN59+pWU8OUSYiqYmpSKWJPIdyxPRS8Oyf1HtaYvg8VQ==
   dependencies:
     "@types/mdast" "^4.0.0"
     collapse-white-space "^2.0.0"
@@ -1601,14 +1601,14 @@ remark-lint-no-undefined-references@^5.0.0:
     vfile-location "^5.0.0"
 
 remark-lint-no-unused-definitions@^4.0.0:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-unused-definitions/-/remark-lint-no-unused-definitions-4.0.1.tgz#0b2b5761c87761c4c9c72ec9c6f2e72b5deb3df4"
-  integrity sha512-AdMbaCeMpj32HvDUuyI+bQyu/405Nby/rgFW8XDpI7U7ufPhHl+jj9J4NgeW7Z8DrODGr0iFgPNt6JtNLskFdA==
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-unused-definitions/-/remark-lint-no-unused-definitions-4.0.2.tgz#920edd3b3b83b7b94f73308d95c93fc1e14283aa"
+  integrity sha512-KRzPmvfq6b3LSEcAQZobAn+5eDfPTle0dPyDEywgPSc3E7MIdRZQenL9UL8iIqHQWK4FvdUD0GX8FXGqu5EuCw==
   dependencies:
     "@types/mdast" "^4.0.0"
     devlop "^1.0.0"
     unified-lint-rule "^3.0.0"
-    unist-util-visit "^5.0.0"
+    unist-util-visit-parents "^6.0.0"
 
 remark-lint-ordered-list-marker-style@^4.0.0:
   version "4.0.1"

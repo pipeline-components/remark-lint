@@ -14,7 +14,6 @@
 ## Usage
 
 The image is for running remark-lint, remark-lint is installed in /app/ in case you need to customize the install before usage.
-The image is based on node:10-alpine
 
 ## Examples
 
